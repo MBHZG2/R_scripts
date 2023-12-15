@@ -1,4 +1,4 @@
-# Rscripts for genomics analysis Script
+# Rscripts for genomics analysis
 ## 1) gemma_output_results.R
 ## Overview
 This R script extract results from gemma outputs, generates QQ plots and Manhattan plots, extracts significant (SNPs), and computes relevant statistics from log files.
