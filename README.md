@@ -1,5 +1,5 @@
-# 1) GWAS Analysis Script
-gemma_output_results.R
+# Rscripts for genomics analysis Script
+## 1) gemma_output_results.R
 ## Overview
 This R script extract results from gemma outputs, generates QQ plots and Manhattan plots, extracts significant (SNPs), and computes relevant statistics from log files.
 
