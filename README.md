@@ -9,3 +9,7 @@ Rscript  gemma_output_results.R <P_wald_threshold>
 Make sure you have R installed on your system. Additionally, the script requires the following R packages, which will be installed automatically if not found:
 - qqman
 - extrafont
+## 2) MDS.plots.from_plink.R
+### Usage 
+Rscript MDS.plots.from_plink.R plink_output.mds
+#### Pefrom MDS plots from plink.mds file output after preforming IBD analysis please read from https://zzz.bwh.harvard.edu/plink/strat.shtml
