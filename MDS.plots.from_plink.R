@@ -1,6 +1,4 @@
 #!/usr/bin/env Rscript
-
-#!/usr/bin/env Rscript
 #USAGE Rscript script.R plink_output.mds
 #plink.mds file output from plink after preforming IBD analysis please read from https://zzz.bwh.harvard.edu/plink/strat.shtml
 #MDS scatterplots 
